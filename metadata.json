@@ -1,0 +1,6 @@
+{
+  "name": "Zenith",
+  "description": "Futuristic multi-module productivity dashboard for university students, featuring study planners, attendance metrics, custom GPAs, and AEGIS AI helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
